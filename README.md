@@ -17,7 +17,8 @@ Build a new expansion team into a multi-championship contender **without making 
 
 | File | Purpose |
 |---|---|
-| [reference/screenshot-slider-reference.md](reference/screenshot-slider-reference.md) | Verbatim slider-setting transcription from 7 screenshots of a **third-party** Operation Sports set. **Not our endorsed sliders.** |
+| [reference/screenshot-slider-reference.md](reference/screenshot-slider-reference.md) | Visible slider-setting transcription from 7 screenshots of a **third-party** Operation Sports set. **Not our endorsed sliders.** |
+| [reference/screenshot-manifest.md](reference/screenshot-manifest.md) | Provenance and checksums of 9 original screenshots. Original binaries not yet in the repo. |
 | [data/portland-roster-snapshot.csv](data/portland-roster-snapshot.csv) | Observed ages and overall ratings from two Portland roster screenshots. |
 | [reference/portland-roster-notes.md](reference/portland-roster-notes.md) | What the screenshots can and cannot establish and priority players to track. |
 | [research/era-targets.md](research/era-targets.md) | Era-selection rationale and **provisional** league-level statistical targets requiring source verification. |
@@ -25,6 +26,7 @@ Build a new expansion team into a multi-championship contender **without making 
 | [testing/protocol.md](testing/protocol.md) | Baseline / experimental control plan for game play, sim stats, and progression. |
 | [data/player-season-template.csv](data/player-season-template.csv) | Blank per-season player measurement template. |
 | [data/team-season-template.csv](data/team-season-template.csv) | Blank per-team seasonal statistics template. |
+| [data/game-test-template.csv](data/game-test-template.csv) | Blank played/CPU-game statistical validation template. |
 
 ## Evidence labels
 
@@ -47,4 +49,4 @@ The game and test franchise were not yet confirmed to have an untouched season-z
 4. Repeat with controlled slider changes, holding other parameters and rosters constant.
 5. Analyze league-wide drift over 5–10+ seasons before starting the actual expansion dynasty.
 
-Initial documentation prepared from the discussion and screenshots on 2026-10-13.
+Initial documentation prepared from the discussion and screenshots on 2026-10-13. Original image bytes are preserved in a separate user-downloadable ZIP backup, not stored in this GitHub repository yet.
