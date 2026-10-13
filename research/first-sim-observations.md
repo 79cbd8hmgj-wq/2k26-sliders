@@ -17,3 +17,7 @@ Source: seven user screenshots shared 2026-10-13. They show MyNBA Association Le
 - Player card highlights: SGA OVR 98 age 27; Tyrese Haliburton OVR 83 age 26 and torn left MCL (season); Zion Williamson OVR 83 age 25 and strained right hip (4–6 weeks). These are incidental player-card details, not scoring-leader stats.
 
 See `data/first-sim-team-stats.csv` and `data/first-sim-scoring-leaders.csv`. Both are **observed**, not independently validated against exported save files.
+
+## Baseline settings confirmation (user, 2026-10-13)
+
+User explicitly confirmed that the simulation results in these screenshots were generated using **NBA 2K26 default settings**, **not** the third-party Operation Sports custom sliders. Label this dataset `default_settings_baseline`. Exact game version, roster configuration, season simulation checkpoint, and whether any individual roster edits exist remain unverified. Preserve the baseline without retroactively applying custom slider assumptions.
